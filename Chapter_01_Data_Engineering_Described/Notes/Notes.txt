@@ -5,3 +5,11 @@ produce high-quality, consistent information that supports downstream use cases,
 Data engineering is the intersection of security, data management, DataOps, data architecture, orchestration, and
 software engineering. A data engineer manages the data engineering lifecycle, beginning with getting data from source
 systems and ending with serving data for use cases, such as analysis or machine learning.
+
+
+Data Maturity
+
+Data maturity is the progression toward higher data utilization, capabilities, and integration across the organization,
+but data maturity does not simply depend on the age or revenue of a company. An early-stage startup can have greater
+data maturity than a 100-year-old company with annual revenues in the billions. What matters is the way data is
+leveraged as a competitive advantage.
