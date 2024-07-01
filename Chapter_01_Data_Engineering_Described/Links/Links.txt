@@ -18,3 +18,90 @@ https://www.linkedin.com/pulse/what-recovering-data-scientist-joe-reis/
 
 DBT
 https://www.getdbt.com/
+
+AlphaGo
+https://deepmind.google/technologies/alphago/
+
+Big Data Will Be Dead in 5 Years
+https://towardsdatascience.com/big-data-will-be-dead-in-5-years-ef4344269aef
+
+Data as a Product vs. Data as a Service
+https://readtechnically.medium.com/data-as-a-product-vs-data-as-a-service-d9f7e622dc55
+
+Data engineering: A quick and simple definition
+https://www.oreilly.com/content/data-engineering-a-quick-and-simple-definition/
+
+Doing Data Science at Twitter
+https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
+
+The Downfall of the Data Engineer
+https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b
+
+The Future of Data Engineering is the Convergence of Disciplines
+https://mode.com/blog/future-of-data-engineering-jasmine-tsai
+
+How CEOs Can Lead a Data-Driven Culture
+https://hbr.org/2020/03/how-ceos-can-lead-a-data-driven-culture
+
+How Creating A Data-Driven Culture Can Drive Success
+https://www.forbes.com/sites/theyec/2020/07/10/how-creating-a-data-driven-culture-can-drive-success/
+
+Information Management Body of Knowledge
+https://en.wikipedia.org/wiki/Information_Management_Body_of_Knowledge
+
+Information management
+https://en.wikipedia.org/wiki/Information_management
+
+On complexity in big data. Why big data isn’t easy, cheap, or quick.
+https://www.oreilly.com/radar/on-complexity-in-big-data/
+
+OpenAI’s new language generator GPT-3 is shockingly good—and completely mindless
+https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/
+
+The Rise of the Data Engineer
+https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
+
+A Short History Of Big Data
+https://datafloq.com/read/big-data-history/#google_vignette
+
+SKILLS OF THE DATA ARCHITECT
+https://robertlambert.net/2012/11/skills-of-the-data-architect/
+
+The 3 Levels of Data Analysis- A Framework for Assessing Data Organization Maturity
+https://about.gitlab.com/blog/2019/11/04/three-levels-data-analysis/
+
+What is a data architect? Skills, salaries, and how to become a data framework master
+https://www.cio.com/article/190852/what-is-a-data-architect-its-data-framework-visionary.html
+
+Which profession is more complex to become, a data engineer or a data scientist?
+https://www.quora.com/Which-profession-is-more-complex-to-become-a-data-engineer-or-a-data-scientist
+
+Big Data
+https://www.techrepublic.com/topic/big-data/
+
+Data Engineering Concepts, Processes, and Tools
+https://www.altexsoft.com/blog/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/
+
+The Two Types of Data Engineering
+https://www.jesse-anderson.com/2018/06/the-two-types-of-data-engineering/
+
+The Rise of the Data Engineer
+https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603
+
+How Yahoo Spawned Hadoop, the Future of Big Data
+https://www.wired.com/2011/10/how-yahoo-spawned-hadoop/
+
+How AWS came to be
+https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+
+The DataOps Manifesto
+https://dataopsmanifesto.org/en/
+
+Data Architect vs. Data Engineer
+https://www.dataversity.net/data-architect-vs-data-engineer/
+
+Do data scientists spend 80% of their time cleaning data? Turns out, no?
+https://blog.ldodds.com/2020/01/31/do-data-scientists-spend-80-of-their-time-cleaning-data-turns-out-no/
+
+Data Prep Still Dominates Data Scientists’ Time, Survey Finds
+https://www.datanami.com/2020/07/06/data-prep-still-dominates-data-scientists-time-survey-finds/
